@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hello. I'm Jayce Bordelon</h1>
+<a href="https://jaycebordelon.netlify.app" target="_blank">Go to my website</a>
 <h3 align="center">CS & HCI @ Washington University in St. Louis & SWE Intern @ Mastercard</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaycebordelon&label=Profile%20views&color=0e75b6&style=flat" alt="jaycebordelon" /> </p>
 
