@@ -1,76 +1,81 @@
 <h1 align="center">Hi, I'm Jayce Bordelon</h1>
-<h3 align="center">Software Engineer @ Mastercard | WashU CS & HCI Alumnus</h3>
+<h3 align="center">Software Engineer @ Mastercard | CTO & Co-Founder @ OccupAI</h3>
 
 <p align="center">
-  <a href="https://jaycebordelon.netlify.app" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/JayceBordelon" target="_blank">🔗 LinkedIn</a> •
-  <a href="bordelonjayce@gmail.com">📬 Email</a>
+  <a href="https://jayceb.com" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/JayceBordelon" target="_blank">LinkedIn</a> •
+  <a href="mailto:bordelonjayce@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <em>Architecting globally scalable microservices and next-gen AI ecosystems with enterprise-grade cloud orchestration.</em>
 </p>
 
 ---
 
-### 👋 About Me
-I'm a full-stack software engineer with experience building scalable systems, polished frontends, and cloud-native services. I graduated from **Washington University in St. Louis** with a degree in **Computer Science & Human-Computer Interaction**, and I currently work at **Mastercard**.
+### About Me
+I am a **Software Engineer** at **Mastercard** and the **CTO** of **OccupAI**. My work bridges the gap between enterprise-scale distributed systems and agile, AI-driven startup products.
+
+I specialize in building high-performance backend infrastructure, optimizing transactional flows (reducing latency by 30%+), and deploying computer vision agents that solve real-world operational problems.
 
 ---
 
-### 🔧 Technologies & Tools
+### Tech Stack
 
 #### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 #### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-#### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Caddy](https://img.shields.io/badge/Caddy-222222?style=flat-square&logo=caddy&logoColor=green)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-#### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+#### Databases & Architecture
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ---
 
-### 🚀 Currently Exploring
-- **Spring Boot**, **Jenkins**, **Tailwind**, and **Angular**
-- Continuing to refine my cloud architecture skills and dev workflow automation
+### Current Focus: OccupAI
+I am currently scaling **[OccupAI](https://occupai.us)**, a platform integrating computer vision with POS systems to detect revenue leaks in real-time.
+* **Architecture:** Scalable full-stack app using Next.js, Docker Swarm, and Server-Sent Events.
+* **AI Agents:** Developed MCP agents for dynamic venue insights and inventory optimization.
+* **Recognition:** 2nd Place Winner at STL Startup Week.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaycebordelon&show_icons=true&theme=highcontrast" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaycebordelon&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaycebordelon&layout=compact&theme=highcontrast" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaycebordelon&theme=2077" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaycebordelon&theme=2077" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaycebordelon&theme=2077" height="180em" />
 </p>
 
 ---
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
