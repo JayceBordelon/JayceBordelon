@@ -16,7 +16,7 @@
 ### About Me
 I am a **Software Engineer** at **Mastercard** and the **CTO** of **OccupAI**. My work bridges the gap between enterprise-scale distributed systems and agile, AI-driven startup products.
 
-I specialize in building high-performance backend infrastructure, optimizing transactional flows (reducing latency by 30%+), and deploying computer vision agents that solve real-world operational problems.
+I specialize in building high-performance backend infrastructure, optimizing transactional flows, and deploying computer vision agents that solve real-world operational problems.
 
 ---
 
