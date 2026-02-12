@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em>Architecting globally scalable microservices and next-gen AI ecosystems with enterprise-grade cloud orchestration.</em>
+  <em>Building stuff :)</em>
 </p>
 
 ---
