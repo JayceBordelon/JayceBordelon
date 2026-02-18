@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="./images/logo.png" alt="logo" width="150" />
+
 # jayce bordelon
 
-[![Portfolio](https://img.shields.io/badge/portfolio-jayceb.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://jayceb.com)
+<img src="./images/dawg.jpg" alt="jayce" width="200" />
+
+[![Portfolio](https://img.shields.io/badge/portfolio-jaycebordelon.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://jaycebordelon.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JayceBordelon)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bordelonjayce@gmail.com)
 
@@ -59,6 +63,8 @@ infra:
 ### building
 
 **[occupai](https://occupai.us)**
+
+<img src="./images/occy.png" alt="occupai" width="80" />
 
 computer vision platform helping restaurants and bars catch revenue leaks in real-time.
 
