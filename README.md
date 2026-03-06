@@ -1,10 +1,9 @@
 <div align="center">
-
-<img src="./images/logo.png" alt="logo" width="150" />
+<img src="./images/logo.png" alt="logo" width="300" />
 
 # jayce bordelon
 
-<img src="./images/dawg.jpg" alt="jayce" width="200" />
+<img src="./images/dawg.jpg" alt="jayce" width="345" />
 
 [![Portfolio](https://img.shields.io/badge/portfolio-jaycebordelon.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://jaycebordelon.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JayceBordelon)
@@ -15,12 +14,14 @@
 <br>
 
 ```
-software engineer @ mastercard · founder @ occupai
+software engineer @ mechanize
 ```
 
 <br>
 
-i build across the full stack — backend services, infrastructure, frontends, whatever needs doing. lately obsessed with computer vision and making AI actually useful. always learning, always shipping.
+i build RL environments that teach AI models how to do real-world work. at [mechanize](https://mechanize.work), we simulate complex work scenarios — building features, deploying apps, debugging issues — and grade model performance to generate reward signals for training. our environments are used by leading AI labs to train their frontier models.
+
+beyond that, i build across the full stack — backend services, infrastructure, frontends, whatever needs doing. lately obsessed with computer vision and making AI actually useful. always learning, always shipping.
 
 <br>
 
@@ -55,12 +56,23 @@ infra:
   - docker / kubernetes
   - github actions
   - linux
+
+ai/ml:
+  - reinforcement learning environments
+  - reward signal design
+  - computer vision
 ```
 
 </td>
 <td width="50%">
 
 ### building
+
+**[mechanize](https://mechanize.work)** — RL environments for AI labs
+
+building environments that simulate real-world software engineering tasks. models get dropped in, complete objectives, and receive graded reward signals. the goal: fully automate software engineering — and eventually, all valuable work.
+
+<br>
 
 **[occupai](https://occupai.us)**
 
@@ -77,7 +89,6 @@ computer vision platform helping restaurants and bars catch revenue leaks in rea
 <a href="https://www.youtube.com/watch?v=aHh5lA6XFCs">
   <img src="https://img.youtube.com/vi/aHh5lA6XFCs/maxresdefault.jpg" alt="occupai demo" width="100%" />
 </a>
-
 <sub>▶️ watch the demo</sub>
 
 </td>
