@@ -72,25 +72,6 @@ ai/ml:
 
 building environments that simulate real-world software engineering tasks. models get dropped in, complete objectives, and receive graded reward signals. the goal: fully automate software engineering — and eventually, all valuable work.
 
-<br>
-
-**[occupai](https://occupai.us)**
-
-<img src="./images/occy.png" alt="occupai" width="80" />
-
-computer vision platform helping restaurants and bars catch revenue leaks in real-time.
-
-- next.js + docker swarm + SSE
-- AI agents for venue insights
-- 🥈 2nd place @ STL startup week
-
-<br>
-
-<a href="https://www.youtube.com/watch?v=aHh5lA6XFCs">
-  <img src="https://img.youtube.com/vi/aHh5lA6XFCs/maxresdefault.jpg" alt="occupai demo" width="100%" />
-</a>
-<sub>▶️ watch the demo</sub>
-
 </td>
 </tr>
 </table>
