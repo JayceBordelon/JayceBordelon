@@ -29,9 +29,6 @@ beyond that, i build across the full stack — backend services, infrastructure,
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
 
 ### tech
 
@@ -63,18 +60,6 @@ ai/ml:
   - computer vision
 ```
 
-</td>
-<td width="50%">
-
-### building
-
-**[mechanize](https://mechanize.work)** — RL environments for AI labs
-
-building environments that simulate real-world software engineering tasks. models get dropped in, complete objectives, and receive graded reward signals. the goal: fully automate software engineering — and eventually, all valuable work.
-
-</td>
-</tr>
-</table>
 
 <br>
 
