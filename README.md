@@ -18,10 +18,7 @@ software engineer @ mechanize
 ```
 
 <br>
-
-i build RL environments that teach AI models how to do real-world work. our environments are used by leading AI labs to train their frontier models.
-
-beyond that, i build across the full stack — backend services, infrastructure, frontends, whatever needs doing. lately obsessed with computer vision and making AI actually useful. always learning, always shipping.
+i build across the full stack — backend services, infrastructure, frontends, whatever needs doing. lately obsessed with computer vision and making AI actually useful. always learning, always shipping.
 
 <br>
 
