@@ -33,6 +33,42 @@ ai/ml:       rl environments · reward signal design · agent evaluation
 
 ---
 
+### projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### [vibetradez.com](https://vibetradez.com)
+
+dual-model options trading service. every weekday morning, chatgpt and claude independently rank the day's picks; consensus tickers tie-break ahead of single-model picks.
+
+```yaml
+stack:    go · next.js · postgres · traefik
+data:     schwab market data · openai · anthropic · resend
+features: live quotes · eod p&l · weekly reports · /models head-to-head
+status:   live, in production
+```
+
+</td>
+<td valign="top" width="50%">
+
+#### [jaycebordelon.com](https://jaycebordelon.com)
+
+personal site and blog. portfolio of projects, writing on engineering and trading systems.
+
+```yaml
+stack:    next.js 16 · react 19 · tailwind v4 · mdx
+hosted:   docker compose · traefik · let's encrypt
+status:   live
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 <a href="https://github.com/JayceBordelon">
