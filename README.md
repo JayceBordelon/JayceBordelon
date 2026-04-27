@@ -1,96 +1,49 @@
 <div align="center">
-<img src="./images/logo.png" alt="logo" width="300" />
+
+<img src="./images/logo.png" alt="logo" width="180" />
 
 # jayce bordelon
 
-<img src="./images/dawg.jpg" alt="jayce" width="345" />
+<img src="./images/dawg.jpg" alt="jayce" width="220" />
 
-[![Portfolio](https://img.shields.io/badge/portfolio-jaycebordelon.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://jaycebordelon.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JayceBordelon)
-[![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bordelonjayce@gmail.com)
+[![portfolio](https://img.shields.io/badge/portfolio-jaycebordelon.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://jaycebordelon.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JayceBordelon)
+[![email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bordelonjayce@gmail.com)
 
 </div>
 
-<br>
-
-```
-software engineer @ mechanize
-```
-
-<br>
-i build across the full stack — backend services, infrastructure, frontends, whatever needs doing. lately obsessed with computer vision and making AI actually useful. always learning, always shipping.
-
-<br>
-
 ---
 
-<br>
+```
+software engineer @ mechanize · washu cs
+```
 
+full-stack engineer building rl environments and grading infrastructure for frontier coding agents.
+
+---
 
 ### tech
 
 ```yaml
-languages:
-  - java
-  - python
-  - typescript
-  - go
-  - ruby
-  - c++
-
-frameworks:
-  - spring boot
-  - next.js / react
-  - fastapi
-  - rails
-  - node
-
-infra:
-  - aws
-  - docker / kubernetes
-  - github actions
-  - linux
-
-ai/ml:
-  - reinforcement learning environments
-  - reward signal design
-  - computer vision
+languages:   go · typescript · python · java · c++ · ruby
+frameworks:  next.js · react · spring boot · fastapi · rails
+infra:       aws · docker · kubernetes · postgres · github actions · linux
+ai/ml:       rl environments · reward signal design · agent evaluation
 ```
-
-
-<br>
 
 ---
 
-<br>
-
 <div align="center">
 
-<a href="https://github.com/jaycebordelon">
-  <img height="180em" src="https://github-readme-stats-jaycebordelon.vercel.app/api?username=jaycebordelon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/JayceBordelon">
+  <img height="170" src="https://github-readme-stats-jaycebordelon.vercel.app/api?username=jaycebordelon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/jaycebordelon">
-  <img height="180em" src="https://github-readme-stats-jaycebordelon.vercel.app/api/top-langs/?username=jaycebordelon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<a href="https://github.com/JayceBordelon">
+  <img height="170" src="https://github-readme-stats-jaycebordelon.vercel.app/api/top-langs/?username=jaycebordelon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </a>
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jaycebordelon&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=jaycebordelon&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" />
-
 </div>
-
-<br>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaycebordelon&color=58a6ff&style=flat-square&label=visitors" />
-</p>
-
-<p align="center">
-  <sub>always down to chat</sub>
-</p>
