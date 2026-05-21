@@ -4,8 +4,6 @@
 
 # jayce bordelon
 
-<img src="./images/dawg.jpg" alt="jayce" width="220" />
-
 [![portfolio](https://img.shields.io/badge/portfolio-jaycebordelon.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://jaycebordelon.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/JayceBordelon)
 [![email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bordelonjayce@gmail.com)
