@@ -45,12 +45,12 @@ status:  live
 
 #### [vibetradez.com](https://vibetradez.com)
 
-dual-model options trading service. every weekday morning, chatgpt and claude independently rank the day's picks; consensus tickers tie-break ahead of single-model picks.
+autonomous options trading. one claude agent ("claudia") runs a single real brokerage account — three sessions a trading day it reads the book, the tape, and the news, then trades options (calls and puts), sized in code so no single contract or name can sink the account. benchmarked against buy-and-hold spy; every move is public, tool call by tool call.
 
 ```yaml
 stack:     go · next.js · postgres · traefik
-data:      schwab market data · openai · anthropic · resend
-features:  live quotes · eod p&l · weekly reports · /models head-to-head
+data:      schwab trader api · anthropic · resend
+features:  live quotes · daily session transcripts · eod p&l vs spy · recap email
 status:    live, in production
 ```
 
