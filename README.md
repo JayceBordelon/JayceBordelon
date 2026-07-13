@@ -13,20 +13,21 @@
 ---
 
 ```
-software engineer @ mechanize · washu cs
+member of technical staff @ taste labs · washu cs
 ```
 
-full-stack engineer building rl environments and grading infrastructure for frontier coding agents.
+leading rl environment design for frontier ai labs. building slop bench, a forthcoming public benchmark for how well frontier models produce intricate, high-quality web design.
 
 ---
 
 ### tech
 
 ```yaml
-languages:   go · typescript · python · java · c++ · ruby
+languages:   typescript · go · java · python · ruby · c++
 frameworks:  next.js · react · spring boot · fastapi · rails
-infra:       aws · docker · kubernetes · postgres · github actions · linux
-ai/ml:       rl environments · reward signal design · agent evaluation
+infra:       docker · kubernetes · traefik · aws · gcp · github actions
+data:        postgres · supabase · redis · mongodb · sqlite
+ai/ml:       rl environments · harness engineering · mcp · agent evaluation · inference hosting
 ```
 
 ---
@@ -38,20 +39,20 @@ ai/ml:       rl environments · reward signal design · agent evaluation
 personal site and blog. portfolio of projects, writing on engineering and trading systems.
 
 ```yaml
-stack:   next.js 16 · react 19 · tailwind v4 · mdx
-hosted:  docker compose · traefik · let's encrypt
+stack:   plain html · tailwind v4 · markdown posts · vanilla js
+hosted:  cloudflare pages
 status:  live
 ```
 
-#### [vibetradez.com](https://vibetradez.com)
+#### [vibetradez.com](https://github.com/JayceBordelon/vibetradez.com)
 
-autonomous options trading. one claude agent ("claudia") runs a single real brokerage account — three sessions a trading day it reads the book, the tape, and the news, then trades options (calls and puts), sized in code so no single contract or name can sink the account. benchmarked against buy-and-hold spy; every move is public, tool call by tool call.
+autonomous options trading. one claude agent ("claudia") ran a single real brokerage account. three sessions a trading day it read the book, the tape, and the news, then traded options (calls and puts), sized in code so no single contract or name could sink the account. benchmarked against buy-and-hold spy, with every move public, tool call by tool call.
 
 ```yaml
 stack:     go · next.js · postgres · traefik
 data:      schwab trader api · anthropic · resend
 features:  live quotes · daily session transcripts · eod p&l vs spy · recap email
-status:    live, in production
+status:    discontinued · repo archived for reference
 ```
 
 ---
