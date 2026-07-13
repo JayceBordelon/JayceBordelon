@@ -16,7 +16,7 @@
 member of technical staff @ taste labs · washu cs
 ```
 
-leading rl environment design for frontier ai labs. building slop bench, a forthcoming public benchmark for how well frontier models produce intricate, high-quality web design.
+building rl environments for frontier ai labs. building slop bench, a forthcoming public benchmark for how well frontier models produce intricate, high-quality web design.
 
 ---
 
